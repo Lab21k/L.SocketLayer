@@ -1,0 +1,26 @@
+{
+  "name": "L.SocketLayer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Lab21k/L.SocketLayer",
+  "authors": [
+    "andre@lab21k.com.br"
+  ],
+  "description": "Leaflet layer that updates automatically when a message is fired on a websocket channel",
+  "main": "L.SocketLayer.js",
+  "keywords": [
+    "leaflet",
+    "layer",
+    "geojson",
+    "socket.io",
+    "socket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
